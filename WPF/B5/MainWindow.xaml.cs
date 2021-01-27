@@ -24,11 +24,6 @@ namespace B5
         {
             InitializeComponent();
         }
-
-        private void btnValue_Click(object sender, RoutedEventArgs e)
-        {
-            txblValue.Text = txbValue.Text;
-        }
         int DoubleValue(int value)
         {
             return value * 2;
@@ -40,6 +35,11 @@ namespace B5
                 txblValue.Text = DoubleValue(value).ToString();
             else
                 txblValue.Text = "Vui lòng nhập giá trị chính xác";
+        }
+
+        private void btnValue_Click(object sender, RoutedEventArgs e)
+        {
+            txblValue.Text = txbValue.Text;
         }
     }
 }
