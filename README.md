@@ -29,4 +29,9 @@
 * Automatically newline 
 ## B12 DockPanel
 * Dock Control
+## B13 Canvas
+* Panel.ZIndex
+* Draw
+## B14 Border 
+* Grid - Border - StackPanel
 Learn WPF
