@@ -21,12 +21,12 @@
 * GridSplitter
 ## B8 Margin
 * Location
-## Padding
-## StackPanel 
+## B9 Padding
+## B10 StackPanel 
 * Similar FlowLayoutPanel Winform
-## WrapPanel
+## B11 WrapPanel
 * Similar StackPanel
 * Automatically newline 
-## DockPanel
+## B12 DockPanel
 * Dock Control
 Learn WPF
