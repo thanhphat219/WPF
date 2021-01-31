@@ -40,4 +40,10 @@
 ## B16 CheckBox
 ## B17 RadioButton
 ## B18 ToggleButton
+## B19 SliderBar
+## B20 Image
+* Source
+* Stretch
+## Style
+* Change all control with syle
 Learn WPF
