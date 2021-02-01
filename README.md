@@ -46,4 +46,5 @@
 * Stretch
 ## Style
 * Change all control with syle
+## DataTemplate
 Learn WPF
