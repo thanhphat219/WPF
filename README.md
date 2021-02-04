@@ -48,4 +48,7 @@
 * Change all control with syle
 ## B22 DataTemplate
 ## B23 ComboBox
+## B24 ListBox
+## B25 + B26 + B27 + B28 + B29 ListView
+* Grouping
 Learn WPF
