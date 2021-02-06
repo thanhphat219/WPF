@@ -51,4 +51,7 @@
 ## B24 ListBox
 ## B25 + B26 + B27 + B28 + B29 ListView
 * Grouping
+## B30 + B31 + B32 TreeView
+* Binding
+* Lazyloading
 Learn WPF
