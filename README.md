@@ -54,4 +54,7 @@
 ## B30 + B31 + B32 TreeView
 * Binding
 * Lazyloading
+## B33 + B34 Trigger
+## B35 + B36 Command
+## B37 Advanced Trigger
 Learn WPF
